@@ -53,7 +53,7 @@ Excelテンプレ群を新設：
 
 
 **提示物**：
-[クリックでLibrary-Assistant.xlsxが開きます、ご注意](artifacts/Library-Assistant.xlsx)
+[クリックでLibrary-Assistant.xlsxへリンク](artifacts/Library-Assistant.xlsx)
 
 > 元資料（参考）：`/artifacts/Library-Assistant.xlsx`（匿名サンプルで再構成）
 
@@ -94,7 +94,7 @@ Excelテンプレ群を新設：
 - `ツールシート` → `作成意図（マニュアル兼ねて）` → `複合キー` の3階層
 - 簡易な仕様による扱いやすさと、短時間教育からの運用、調整、再現性を配慮しました。
 
-[クリックでWeight-measurement.xlsxが開きます、ご注意](artifacts/Weight-measurement.xlsx)
+[クリックでWeight-measurement.xlsxへリンク](artifacts/Weight-measurement.xlsx)
 > 元試作（参考）：`/artifacts/Weight-measurement.xlsx`
 
 ---
