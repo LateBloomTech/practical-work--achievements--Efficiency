@@ -53,7 +53,7 @@ Excelテンプレ群を新設：
 
 
 **提示物**：
-
+[クリックでLibrary-Assistant.xlsxが開きます、ご注意](artifacts/Library-Assistant.xlsx)
 
 > 元資料（参考）：`/artifacts/Library-Assistant.xlsx`（匿名サンプルで再構成）
 
@@ -78,6 +78,7 @@ Excelテンプレ群を新設：
 トラブル発生時に今後の対応策、また運用の再現性を効率運用を考慮したマニュアルシート作成。
 
 **提示物**：
+![mercari](artifacts/mercari.jpg)
 
 > 元資料（参考）：`/artifacts/mercari.jpg`（個人情報の関係で重要数値とグラフのみ表示します）
 
@@ -93,14 +94,16 @@ Excelテンプレ群を新設：
 - `ツールシート` → `作成意図（マニュアル兼ねて）` → `複合キー` の3階層
 - 簡易な仕様による扱いやすさと、短時間教育からの運用、調整、再現性を配慮しました。
 
-
+[クリックでWeight-measurement.xlsxが開きます、ご注意](artifacts/Weight-measurement.xlsx)
 > 元試作（参考）：`/artifacts/Weight-measurement.xlsx`
 
 ---
 ## 5. 病棟レクリエーション　「夏祭り」リーダー運営（2024）
 50名程度（職員15名:患者35名）の小規模イベントの運営を実施しました。事前の準備や細やかなタイムスケジュールを組んだことにより、予定外のトラブルもありましたが、ブース6、総費用 18,000円（予算内）／予定消化100%／インシデント・アクシデント0／残業発生0。、患者様からのフィードバックもとても良い物に仕上がりました。
 医療系ではありますが、プロジェクトマネジメントの一連の流れを経験出来たと考慮したため公開。経験年数5年～10年以上の職員が2/3以上集まれば、同じ業種での再現性は高いと判断した為、公開します。
->詳細は`summer-festival/summer-festival.md`に記載しております。
+
+>詳細は→をクリック　[夏祭りmdリンク](summer-festival/summer-festival.md)
+`summer-festival/summer-festival.md`に記載しております。
 
 
 ### 利用許諾
